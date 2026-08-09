@@ -16,7 +16,7 @@ The visualization transforms birth timestamps into a circular representation con
 
 ## Births by Minute
 
-![Births by Minute](images/births-by-minute-circular.png)
+![Births by Minute](births-by-minute-circular.png)
 
 The circular layout maps a complete 24-hour period around a polar coordinate system.
 
