@@ -15,7 +15,7 @@ The project focuses on transforming raw tabular data into clear visual represent
 
 ## Ocean Plastic Pollution
 
-![Drivers of Ocean Plastic Pollution](images/plastic-pollution-drivers.png)
+![Drivers of Ocean Plastic Pollution](plastic-pollution-drivers.png)
 
 This visualization explores potential drivers of ocean plastic pollution by comparing coastal exposure with the percentage of mismanaged plastic waste entering the ocean.
 
@@ -31,7 +31,7 @@ Rainfall is incorporated as a third variable through the colour scale, while log
 
 ## Recommended Sleep by Age
 
-![Recommended Sleep by Age](images/recommended-sleep-by-age.png)
+![Recommended Sleep by Age](recommended-sleep-by-age.png)
 
 This visualization presents the National Sleep Foundation's recommended lower and upper sleep-duration ranges across different age groups.
 
